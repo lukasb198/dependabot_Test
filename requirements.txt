@@ -1,4 +1,4 @@
-# VOLL VERALTET - Dependabot wird WUTEN!
+#Spezifiziert Die Bibliotheken in der Repository
 numpy==1.16.0
 requests==2.20.0
 PyYAML==5.1
