@@ -1,7 +1,7 @@
 
 version: 2
 updates:
-  - package-ecosystem: "" # für Pyhton
+  - package-ecosystem: "pip" # für Pyhton
     directory: "/" # Zeigt das Requirement in der Root Repository ist bei Unterornder ensprechend angeben
     schedule:
-      interval: "weekly"
+      interval: "daily"
