@@ -1,4 +1,4 @@
 #Spezifiziert Die Bibliotheken in der Repository
 numpy==1.16.0
-requests==2.20.0
+requests==2.32.5
 PyYAML==5.1
